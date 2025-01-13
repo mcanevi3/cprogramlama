@@ -1,2 +1,26 @@
 # cprogramlama
 C programlama ders notları
+
+# Ders 1
+Kod yazma, Kod derleme. Değişken tanımlama, veri tipleri. Operatörler.
+
+# Ders 2
+Fonksiyonlar. Tanımlama ve çağırma. Fonksiyon argümanları. Fonksiyonun döndürdüğü değer.
+
+# Ders 3
+Karar verme yapıları ve döngüler.
+
+# Ders 4
+Diziler I.
+
+# Ders 5
+Diziler II.
+
+# Ders 6
+Struct yapılar ve Makrolar.
+
+# Ders 7
+Kütüphane yazma.
+
+# Ders 8
+Dosyalar ile çalışma.
